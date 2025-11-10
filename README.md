@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Visualizer & Analyzer Tool
 
 A full-stack AI-driven Data Search and Analysis Platform that connects to any type of data source (CSV, Excel, SQL databases, MongoDB) and allows users to query and analyze their data through natural language.
@@ -258,3 +259,6 @@ This project is open source and available under the MIT License.
 
 For issues or questions, please check the API documentation at http://127.0.0.1:8000/docs
 
+=======
+# Data_AI_Insights
+>>>>>>> c9898f187be4c877381550610954ea28677a129f
